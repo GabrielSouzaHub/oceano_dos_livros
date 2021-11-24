@@ -1,0 +1,3 @@
+Use este link para acessar o dashboard pelo navegador:
+
+https://app.powerbi.com/groups/me/reports/134909ec-6740-40c7-bd60-3713f401984c?ctid=a70b6cf1-294d-4251-9456-c01e5624032b&pbi_source=linkShare
